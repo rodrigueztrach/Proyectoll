@@ -7,5 +7,4 @@ public interface Facturable {
     String generarFactura();
     double calcularTotal();
     Date getFecha(); 
-   
 }
