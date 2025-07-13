@@ -39,6 +39,8 @@ public class Vista extends javax.swing.JFrame {
         PanelContenido = new javax.swing.JPanel();
         PanelRegistroCliente = new javax.swing.JPanel();
         PanelConsultaCliente = new javax.swing.JPanel();
+        jLabel1 = new javax.swing.JLabel();
+        jLabel3 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setCursor(new java.awt.Cursor(java.awt.Cursor.W_RESIZE_CURSOR));
@@ -112,6 +114,12 @@ public class Vista extends javax.swing.JFrame {
 
         getContentPane().add(PanelContenido, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 190, -1, -1));
 
+        jLabel1.setText("Por el momento si se corre se ve solo esta interfaz, aun no hago el llamado de los otros bonotes");
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 160, -1, -1));
+
+        jLabel3.setText("Esta interfaz esta sujeta a cambios todavia");
+        getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 120, -1, -1));
+
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
@@ -170,7 +178,9 @@ public class Vista extends javax.swing.JFrame {
     private javax.swing.JButton jButton3;
     private javax.swing.JButton jButton4;
     private javax.swing.JButton jButton5;
+    private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
     private javax.swing.JPanel jPanel1;
     // End of variables declaration//GEN-END:variables
 }
