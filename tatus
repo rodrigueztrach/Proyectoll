@@ -1,0 +1,29 @@
+[33mcommit fe08567f284df14ebcaaab7afa625d2055990235[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mVista_Interfaz_Poryecto_programado2[m[33m, [m[1;31morigin/Vista_Interfaz_Poryecto_programado2[m[33m)[m
+Author: Aleida Rivera <aleidarivera306@gmail.com>
+Date:   Tue Jul 15 19:34:01 2025 -0600
+
+    Vista muestra intefaz sin errores,se agrega un nuevo packages para configurar la vista del boton vehiculo ,el avance de vista se domumento
+
+[33mcommit 9a204b247e2218f258109b9cfa53e468b4bb32d1[m
+Author: Aleida Rivera <aleidarivera306@gmail.com>
+Date:   Tue Jul 15 19:23:54 2025 -0600
+
+    Se termina de documentar las acciones del boton clintes entre otros detalles de codumentacion
+
+[33mcommit 2916c78f6e4cc410b47430a9bfae8a65e722366a[m
+Author: Aleida Rivera <aleidarivera306@gmail.com>
+Date:   Sun Jul 13 13:10:22 2025 -0600
+
+    Actualizacion - va de la mano con la documentacion, Modulo Cliente en proceso
+
+[33mcommit a5ccf2d4e85c550c65c399314b600ceaf53e7861[m
+Author: Aleida Rivera <aleidarivera306@gmail.com>
+Date:   Fri Jul 11 21:45:38 2025 -0600
+
+    Agregar interfaz Grafica a Rama, version inicial
+
+[33mcommit acf795cd8c1d30fdf8e6022773ee6e60ceb7dffe[m
+Author: rodrigueztrach <rronny045@gmail.com>
+Date:   Thu Jul 10 16:45:40 2025 -0600
+
+    se crea la clase principal
